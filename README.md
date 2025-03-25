@@ -9,7 +9,9 @@ A simple Python-based Expense Tracker using MongoDB for storing expenses.
 - Delete an expense
 
 ## Prerequisites
-Ensure you have Python and MongoDB installed.
+- Python 3.13
+- MongoDB (local installation)
+- `pip` for installing Python packages
 
 ### Install Required Libraries
 Run the following command:
